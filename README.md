@@ -1,6 +1,6 @@
 # GlyT2_CHOL
 
-Representative structures of lipid inhbitors bound to GlyT2 from GROMACS 54a7 MD simulations 
+Representative structures of lipid inhbitors bound to GlyT2 from Martini 2 and GROMACS 54a7 MD simulations 
 
 This work is published as:
 
